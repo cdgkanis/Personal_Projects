@@ -1,0 +1,26 @@
+{
+  "materials": [
+    {
+      "name": "Steel",
+      "type": "isotropic",
+      "rho": 7850.0,
+      "E": 210e9,
+      "nu": 0.30
+    },
+    {
+      "name": "Aluminum",
+      "type": "isotropic",
+      "rho": 2700.0,
+      "E": 50.0e9,
+      "nu": 0.30
+    },
+    {
+      "name": "CarbonFiber",
+      "type": "orthotropic",
+      "rho": 1600.0,
+      "Ex": 150e9, "Ey": 10e9, "Ez": 10e9,
+      "nuxy": 0.3, "nuyz": 0.4, "nuxz": 0.3,
+      "Gxy": 5e9,  "Gyz": 3e9,  "Gxz": 5e9
+    }
+  ]
+}
