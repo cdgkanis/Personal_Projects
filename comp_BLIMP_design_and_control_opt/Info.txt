@@ -1,0 +1,9 @@
+compliant_BLIMP_opt_project: A multidiscipline optimization regarding both the design of a compliant BLIMP and its control. The main idea is that by including the compliance of the BLIMPS balloon the motors in its circomference could be control in such a way to accomplish better controllability .Using various tools like MATLAB and python and validating the results through construction of the robot and experiments. 
+
+Light_weight_robotic_arm: The design of the control and modeling of a light weight robotic arm executing the opening of a slot. Using the assumed mode method and extending it to fit the problem description, we achieved to cut down the errors that occur from this manufacturing process, giving the possibility to robotic arms to operate at the manufacturing processes of material removal.
+
+FEA_Library: In the context of the subject Finite Element Analysis 2 at NTUA at the 8 semester, I developed a library for fea analysis in c++.Furthermore, I simultaneously use the ploting capabilities of python libraries for the clean extraction of the results.
+
+Cycloidal_drive_opt: The optimization of a cycloidal drive dpeed reducer dedicated to mechatronic and robotic applications. The optimization focused also in the manifacturability from an FDM 3d printer.
+
+WTG morphological optimization: The morphological optimization of a WTG with 3 stages. The morphology is included via 3 variables that correspond to different inout and output combinations of each stage. The aim of the project is to determine if the changes in the power train would result in better efficiency in . This project is a paper in development and it has been presented in the BAMPT conference in Athens last year. 
